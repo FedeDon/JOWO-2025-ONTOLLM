@@ -1,3 +1,3 @@
-# NCOR-Test
+# JOWO ONTOLLM
 
-NCOR-test page can be viewed [https://ncor-organization.github.io/ncor.us](https://ncor-organization.github.io/ncor.us)
+JOWO ONTOLLM page can be viewed [here](https://ncor-organization.github.io/ncor.us)
